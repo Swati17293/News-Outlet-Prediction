@@ -1,6 +1,6 @@
-# News-Outlet-Prediction
+# News Outlet Prediction
 
-##"Are You Following the Right News-Outlet? A Machine Learningbased approach for outlet prediction"
+## "Are You Following the Right News-Outlet? A Machine Learningbased approach for outlet prediction"
 
 This project is an approach to recommend a list ofprobable outlets covering an event of interest. 
 
