@@ -1,4 +1,6 @@
-"Are You Following the Right News-Outlet? A Machine Learningbased approach for outlet prediction"
+# News-Outlet-Prediction
+
+##"Are You Following the Right News-Outlet? A Machine Learningbased approach for outlet prediction"
 
 This project is an approach to recommend a list ofprobable outlets covering an event of interest. 
 
@@ -42,8 +44,3 @@ To run this project go through the following steps:
 
     python3 src/models/evaluate_model.py
 
-
-
-
-
-# News-Outlet-Prediction
