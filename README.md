@@ -17,12 +17,13 @@ To run this project go through the following steps:
 
 ### 3. Prepare the dataset.
     
-    > load the data from EventRegistry
-    > note: apikey = eventregistry API key
+    >load the data from EventRegistry
+    >note: apikey = eventregistry API key
 
     python3 src/data/load_data.py apiKey
 
-    > split the data into train-test-valid set
+    >split the data into train-test-valid set
+    
     python3 src/data/split_data.py
 
 ### 4. Pre-process the data
