@@ -1,0 +1,13 @@
+dependencies:
+ - python=3.7
+ - anaconda
+ - numpy
+ - pandas
+ - scikit-learn
+ - keras
+ - matplotlib
+ - pip
+ - pip:
+   - eventregistry
+   - textblob
+   - tensorflow_hub
